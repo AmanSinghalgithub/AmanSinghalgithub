@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @AmanSinghalgithub
+- 👀 I’m currently working in software developement and Web developement.  ...
+- 🌱 I’m currently learning ...
+- 📫 How to reach me:amansinghal1702@gmail.com ...
+
+<!---
+AmanSinghalgithub/AmanSinghalgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
